@@ -1,0 +1,12 @@
+errors.txt
+Bad1.java
+-> error at compile time
+-> The error in Bad1 is that the class name (BADOne) does not match the file name (Bad1.java).
+
+Bad2.java
+-> error at runtime
+-> In line 6, the code attempts to divide an integer value by zero.
+
+Bad3.java
+-> error at compile time
+-> In line 3, the code attempts to assign 'a', a char type using single quotes, to the variable letter which is a String type.
